@@ -1,6 +1,6 @@
 <h2>
     Descrição do BLOCO 3 - INTRODUÇÃO A HTML & CSS 
- </h2><br>
+ </h2>
 <h3>
   Aqui você vai aprender como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos.
 </h3>

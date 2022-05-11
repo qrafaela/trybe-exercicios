@@ -1,6 +1,10 @@
 <h2>
     Descrição do BLOCO 3 - INTRODUÇÃO A HTML & CSS 
+<<<<<<< HEAD:fundamentos/README.md
  </h2><br>
+=======
+ </h2>
+>>>>>>> main:Fundamentos/bloco-3-introducao-a-html-e-css/README.md
 <h3>
   Aqui você vai aprender como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos.
 </h3>
